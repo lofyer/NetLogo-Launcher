@@ -17,7 +17,7 @@ Go to **System Preferences** and select **Security & Privacy**. Under **Allow ap
 
 ### 2. Move **NetLogo Launcher.app** to the NetLogo installation directory
 
-This is the directory that contains **NetLogo 5.1.0.app**, **NetLogo 3D 5.1.0.app**, and so forth (the version numbers may be different). NetLogo Launcher should work with most NetLogo versions as long as the app name looks like **NetLogo #.#.#.app**.
+This is the directory that contains **NetLogo 5.1.0.app**, **NetLogo 3D 5.1.0.app**, and so forth (the version numbers may be different). NetLogo Launcher should work with most NetLogo versions as long as the app name looks like **NetLogo #.#.#.app**. And tested with NetLogo 6.0+.
 
 ### 3. Add NetLogo Launcher to the dock
 
