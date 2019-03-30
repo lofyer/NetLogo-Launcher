@@ -1,5 +1,6 @@
 cd ../../../
-app=`ls -1 | grep -e 'NetLogo [.0-9]\+[ A-Za-z\-]*[0-9]*\.app'`
+#app=`ls -1 | grep -e 'NetLogo [.0-9]\+[ A-Za-z\-]*[0-9]*\.app'`
+app=`ls -1 | grep -e 'NetLogo [.0-9]*\.app'`
 ls
 
 if [ -z "${app// }" ]; then
